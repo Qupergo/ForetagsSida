@@ -1,2 +1,2 @@
-# ForetagsSida
-En företags sida gjord för kursen weuweb01
+# CompanySite
+A company website made for web development class
